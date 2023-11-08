@@ -1,6 +1,7 @@
 #android #linux #hack #hacking #android-device #rat #remote-shell #post-exploitation #kali-linux
 #hacking-tool #linux-terminal #androidtools #kali-scripts #hacking-tools #hacking-scripts #android-exploit
 #android-rat-spy #android-rat-spy-2023
+
                           **Silent Spy Android RAT Tool**
 ![photo_2023-11-07_17-39-07 (2)](https://github.com/SilentXSpy/Silent_Spy/assets/150291173/636cf992-ef7f-4ffe-8561-824d33f7ec87)
 ![photo_2023-11-07_17-39-07 (3)](https://github.com/SilentXSpy/Silent_Spy/assets/150291173/6834d3a1-1ccc-49af-b71a-45c8c93bc428)
