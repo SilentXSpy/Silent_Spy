@@ -21,5 +21,6 @@ Present to you the updated version of Android Rat Silent Spy
 - For users who have paid for a subscription, there is a closed chat where you can ask all your questions.
 
 Payment is accepted in cryptocurrency (BTC, USDT, ETH, etc)
-Payment and all questions in telegram https://t/me/xxxx
+
+Payment and all questions in telegram https://t.me/silentspyadmin
 
